@@ -236,7 +236,7 @@ The new elements that have been added in order to define the morph targets are c
         }
       ],
       "weights":[
-        0.5,
+        1.0,
         0.5
       ]
     }
