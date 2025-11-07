@@ -41,7 +41,7 @@ The following is a minimal example that shows a mesh with two morph targets. The
         }
       ],
       "weights":[
-        1.0,
+        0.5,
         0.5
       ]
     }

@@ -25,7 +25,7 @@ The example in the previous section contains a mesh that consists of a single tr
         }
       ],
       "weights":[
-        1.0,
+        0.5,
         0.5
       ]
     }
